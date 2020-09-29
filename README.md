@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Luis Casillas
+
+I usually work as a Developer, mainly frontend, I actually have a B.A. in Product Design 🏴‍☠️, but I'm a big fan of tech. 
+
+🔭 Nowadays I work on _Online Ordering_ (OLO for short) which is a digital product built with React and written in TypeScript by **SpotOn!** that helps merchants in the US sell online without much hassle. 
+  
+🌱 Currently I'm in the process of getting certified as a MongoDB Developer
+
+
+
 
 <!--
 **casillasluisn12/casillasluisn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
