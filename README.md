@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Luis Casillas
 
-I usually work as a Developer, mainly frontend, I actually have a B.A. in Product Design 🏴‍☠️, but I'm a big fan of tech. 
+I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have been coding for some years now. 
 
 🔭 Nowadays I work on _Online Ordering_ (OLO for short) which is a digital product built with React and written in TypeScript by **SpotOn!** that helps merchants in the US sell online without much hassle. 
   
 🌱 Currently I'm in the process of getting certified as a MongoDB Developer
 
-
+⚡ Fun fact: I actually have a B.A. in Product Design 🏴‍☠️
 
 
 <!--
