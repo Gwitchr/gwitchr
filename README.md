@@ -8,7 +8,7 @@ I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have be
   
 🌱 Currently I'm in the process of getting certified as a MongoDB Developer
 
-⚡ Fun fact: I actually have a B.A. in Product Design 🏴‍☠️
+⚡ Fun fact: I have a B.A. in Product Design 🏴‍☠️
 
 
 <!--
