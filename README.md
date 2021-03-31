@@ -4,11 +4,13 @@ I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have be
 
 🔭 Nowadays I work on _Online Ordering_ (OLO for short) which is a digital product built with React and written in TypeScript, that leverages the React ecosystem (Redux/Thunks/etc) by **SpotOn!** that helps merchants in the US sell online without much hassle. 
 
-🧮 I also teach (but most of the time, to be honest, **learn** while doing it) about the web, its languages and JS driven backend/frontend with tools such as express [@Devf.la](https://github.com/devfmx) 
+🧮 I also teach (but most of the time, to be honest, **learn** while doing it) about the web, its languages and JS driven backend/frontend with tools such as express, React, TypeScript, Redux, Testing, etc [@Devf.la](https://github.com/devfmx) 
   
 🌱 Currently I'm in the process of getting certified as a MongoDB Developer
 
 ⚡ Fun fact: I have a B.A. in Product Design 🏴‍☠️
+
+📫 How to reach me: [medium](https://medium.com/@luiscasillas) & [twitter](https://twitter.com/luistisismo)
 
 
 <!--
