@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Luis Casillas
 
-I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have been coding for some years now. 
+I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have been coding for over 5 years now. 
 
-🔭 Nowadays I work on _Online Ordering_ (OLO for short) which is a digital product built with React and written in TypeScript, that leverages the React ecosystem (Redux/Thunks/etc) by **SpotOn!** that helps merchants in the US sell online without much hassle. 
+🔭 Nowadays I work on different projects accross industries, that are built primarily on Nextjs, express, and are written primarily in TypeScript, styled in many ways and state managed in various ways (Redux/React-query/Context). Tested with React-Testing-Library and deployed to the web through cloud based services.  
 
 🧮 I've also taught (but most of the time, to be honest, **learnt** while doing it) about the web, its languages and JS driven backend/frontend with tools such as express, React, TypeScript, Redux, Testing-Library, etc [@Devf.la](https://github.com/devfmx)
   
