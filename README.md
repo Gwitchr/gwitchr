@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Luis Casillas
 
-I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have been coding for over 5 years now. 
+I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have been coding for 6+ years now. 
 
 🔭 Nowadays I work on different projects accross industries, that are built primarily on Nextjs, express, and are written primarily in TypeScript, styled in many ways with CSS, SASS, styled componenys, TailwindCSS, ChakraUI or ReactStrap and state managed in various ways (Redux/React-query/Context). Tested with React-Testing-Library and deployed to the web through cloud based services.  
 
