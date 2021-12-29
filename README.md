@@ -10,7 +10,7 @@ I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have be
 
 ⚡️ Fun fact: I have a B.A. in Product Design 🏴‍☠️
 
-📫 How to reach me: [medium](https://medium.com/@luiscasillas) & [twitter](https://twitter.com/luistisismo)
+📫 How to reach me: [medium](https://gwitchr.medium.com) & [twitter](https://twitter.com/gwitchr) & [dev.to](https://dev.to/gwitchr) & [hashnode](https://hashnode.com/@Gwitchr)
 
 
 <!--
