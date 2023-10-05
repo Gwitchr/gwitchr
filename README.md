@@ -2,7 +2,7 @@
 
 I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have been coding for 6+ years now. 
 
-🔭 Nowadays I work in web based applications and platforms, have worked for web3 projects, currently work mainly with tools that are built primarily on Nextjs, express, and are written in TypeScript, styled in many ways with CSS, SASS, styled componenys, TailwindCSS, ChakraUI or ReactStrap and state managed in various ways (Redux/React-query/Context). Tested with React-Testing-Library and deployed to the web through cloud based services.  
+🔭 Nowadays I work in tech/logistics and have worked in many industries like ML driven projects, AI assistants, web3 digital art, green economy, real state, retail, data visualisation and more. I work mainly with tools that are built primarily on Nextjs, express, and are written in TypeScript, styled in many ways with CSS, SASS, styled components, TailwindCSS, ChakraUI or ReactStrap and state managed in various ways (Redux/React-query/Context). Tested with React-Testing-Library and deployed to the web through cloud based services.
 
 🧮 I've also taught (but most of the time, to be honest, **learnt** while doing it) about the web, its languages and JS driven backend/frontend with tools such as express, React, TypeScript, Redux, Testing-Library, etc. 
   
