@@ -6,7 +6,7 @@ I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have be
 
 🧮 I've also taught (but most of the time, to be honest, **learnt** while doing it) about the web, its languages and JS driven backend/frontend with tools such as express, React, TypeScript, Redux, Testing-Library, etc. 
   
-🌱 Currently I'm in the process of getting certified as a MongoDB Developer
+🌱 I'm turning into a data scientist
 
 ⚡️ Fun fact: I have a B.A. in Product Design 🏴‍☠️
 
