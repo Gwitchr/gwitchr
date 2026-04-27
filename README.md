@@ -1,29 +1,32 @@
-### Hi there 👋, my name is Luis Casillas
+# Hi there 👋, I'm Luis Casillas
 
-I mainly work as a Developer, mostly frontend, I'm a big fan of tech and have been coding for a decade now.
+**Senior Frontend Engineer · TypeScript · React · Frontend Architecture**
+Industrial designer turned engineer, ~10 years hand crafting code 🤲🏼. 
 
-🔭 Nowadays I work in tech/logistics and have worked in many industries like ML driven projects, AI assistants, digital marketplaces, green economy, real state, retail, data visualisation and more. I work mainly with tools that are built primarily in TypeScript, deployed to the web through cloud based services.
+## What I'm working on
 
-🧮 I've also taught (but most of the time, to be honest, **learnt** while doing it) 
-  
-🌱 Currently exploring Data Analysis and Machine Learning
+🔭 **At AB-InBev** Visualization that informs ~$100M/yr in US advertising spend. Computer-vision platform, building visuals for ML pipelines 
 
-⚡️ Fun fact: I have a B.A. in Product Design 🏴‍☠️
+🌱 **Orbit** (Co-Founder) - [Orbit 🛰️](orbit.n12.tech)
 
-📫 How to reach me: [medium](https://gwitchr.medium.com) & [twitter](https://twitter.com/gwitchr) & [dev.to](https://dev.to/gwitchr) & [hashnode](https://hashnode.com/@Gwitchr)
+🧪 **ML** — [ml_tetris_rl](https://github.com/Gwitchr/ml_tetris_rl), a small reinforcement-learning project teaching an agent to play Tetris (Python, with tests). Mostly an excuse to learn RL fundamentals from the ground up.
 
+📡 **xAI** — helping train Grok.
 
-<!--
-**casillasluisn12/casillasluisn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack I reach for
 
-Here are some ideas to get you started:
+- **Languages** TypeScript · JavaScript · Python 
+- **Frontend** React · Next.js · Redux · TanStack Query · Tailwind · design systems
+- **Backend** Node.js · Express · GraphQL · PostgreSQL · MongoDB
+- **Testing** Jest · React Testing Library · Playwright
+- **Tooling** Vite · Webpack · Storybook · Docker · Git/CI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Villain Origin Story 
+
+⚡️ B.A. in Industrial & Product Design
+
+## Find me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiscasillasm)
+- 📝 Writing at [gwitchr.mx/thoughts](https://gwitchr.mx/thoughts)
+- ✉️ luis@gwitchr.mx
